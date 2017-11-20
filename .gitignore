@@ -29,6 +29,9 @@ node_modules
 # Ignore Yarn.loc file due to its huge code of lines
 yarn.lock
 
+# Ignore public folder due to its huge code of lines
+public
+
 #dist folder
 dist
 
