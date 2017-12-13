@@ -30,7 +30,8 @@ node_modules
 yarn.lock
 
 # Ignore public folder due to its huge code of lines
-public
+public/vendor.js
+public/app.js
 
 #dist folder
 dist
